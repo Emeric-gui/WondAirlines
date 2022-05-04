@@ -6,7 +6,7 @@
   
   
 ## 2. Prérequis
-PHP 7
+PHP 7<br>
 PostgreSQL sur Apache
   
 ## 3. Auteurs
