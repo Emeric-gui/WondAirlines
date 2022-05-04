@@ -1,0 +1,48 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-text {
+    font-size: 16px;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+}
+
+#footer>p {
+    margin-bottom: 0;
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+.h1hr {
+    border: solid #343a40 3px ;
+    width: 50px;
+}
+
+hr {
+    border: solid #343a40 1px;
+}
+
+.subtitle {
+    text-align: center;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-family: dinneuzeitgroteskltw01-_812426,sans-serif;
+}
